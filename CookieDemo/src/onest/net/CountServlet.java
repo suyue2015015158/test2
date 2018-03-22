@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletResponse;
 public class CountServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
     public void yue(){
-        system.out.println("11111222223333");
+        System.out.println("11111222223333");
 }
        
     /**
